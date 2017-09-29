@@ -1,0 +1,1 @@
+## Code to create Firebase functions to get Staging instances' status from Slack
